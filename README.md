@@ -5,7 +5,7 @@ To update U2 securekey
 
 Tested with python 3.7.6 (anaconda) and uTorrent 2.2.1 (build 25110)
 
-Dependency: https://github.com/tomster/BitTorrent-bencode. Use `pip install BitTorrent-bencode==5.0.8.`
+Dependency: bencode.py 4.0.0. https://github.com/fuzeman/bencode.py Use `pip install bencode.py`
 
 # Parts need to be changed in code
 1. Path for "resume.dat".
